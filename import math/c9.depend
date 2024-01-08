@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702219096 source:/home/amash/Desktop/c/c9/main.c
+	<stdio.h>
+	<math.h>
+
