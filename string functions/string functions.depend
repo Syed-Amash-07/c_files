@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704532230 source:/home/amash/Desktop/c files/string functions/main.c
+	<stdio.h>
+	<string.h>
+

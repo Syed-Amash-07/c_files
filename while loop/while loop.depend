@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704535245 source:/home/amash/Desktop/c++ files/while loop/main.c
+	<stdio.h>
+	<string.h>
+
